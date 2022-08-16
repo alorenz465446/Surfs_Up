@@ -23,6 +23,10 @@ Finding out further analysis on temperature trends in Oahu, Hawaii to see if a b
 <img width="134" alt="December_temp_stats" src="https://user-images.githubusercontent.com/107652317/184949119-330cf117-38f0-42e3-9d5e-2373e541c49a.png">
 <img width="346" alt="December_temp_hist" src="https://user-images.githubusercontent.com/107652317/184954071-2ede68b3-8fee-4272-8550-1d21523212ee.png">
 
+### June Vs. Decemeber Comparison
+* Temperature ranges were greater in the month of Dcemeber
+* June temperatures averaged to be 3&deg;F warmer than Decemeber
+
 
 ### Resources
 * Jupyter Notebook
